@@ -1,0 +1,16 @@
+﻿Outline Level,Id,Name,Start,Finish,Duration,% Complete,Predecessors,Resources,Color,Notes
+1,1,Phase 1: Cognitive Visibility and AI Inference,2025-05-12,2025-05-22,10,0,,,SteelBlue,
+2,2,Autonomous Cloud Graph Inference,2025-05-12,2025-05-17,5,0,0,"SageMaker, Azure ML, Vertex AI",LightSkyBlue,Builds real-time AI cloud graph.
+2,3,Semantic Role Modeling,2025-05-12,2025-05-17,5,0,2FS,"OpenAI, Bedrock, IAM Analyzer",LightSkyBlue,Analyzes and refines IAM policy roles.
+1,4,Phase 2: Contextual Risk Modeling via AI Behavior Baselines,2025-05-12,2025-05-24,12,0,,,DarkOliveGreen,
+2,5,AI Behavior Baseline Modeling,2025-05-12,2025-05-18,6,0,3FS,"GuardDuty, UEBA, BigQuery",YellowGreen,Models baseline behavior for control plane access.
+2,6,Cross-Cloud and Hybrid Pattern Matching,2025-05-12,2025-05-18,6,0,5FS,"LangChain, Vector DBs",YellowGreen,Uses embeddings to find cross-platform threats.
+1,7,Phase 3: Proactive Autonomous Policy Enforcement,2025-05-12,2025-05-26,14,0,,,SaddleBrown,
+2,8,Dynamic Policy Generation,2025-05-12,2025-05-19,7,0,6FS,"LLM Agents, Firewall Manager",Tan,AI synthesizes SCPs and enforcement rules.
+2,9,AI-Guided Breakglass Governance,2025-05-12,2025-05-19,7,0,8FS,"Conditional Access, Lambda",Tan,Context-aware JIT access controls.
+1,10,Phase 4: Human-in-the-Loop Explainability & Forensics,2025-05-12,2025-05-22,10,0,,,DarkSlateBlue,
+2,11,Explainable AI for Policy Decisions,2025-05-12,2025-05-17,5,0,9FS,"Bedrock, Azure OpenAI",MediumSlateBlue,Plain language explanations of AI decisions.
+2,12,Timeline Reconstruction via AI,2025-05-12,2025-05-17,5,0,11FS,"LangChain, TimeGPT",MediumSlateBlue,Reconstructs event chains from logs.
+1,13,Phase 5: Self-Healing Infrastructure-as-Code,2025-05-12,2025-05-24,12,0,,,DarkRed,
+2,14,AI-Generated Infrastructure Patches,2025-05-12,2025-05-18,6,0,12FS,"Terraform, OPA, CloudFormation",LightCoral,AI writes validated infrastructure patches.
+2,15,Autonomous Red Teaming,2025-05-12,2025-05-18,6,0,14FS,"MITRE CALDERA, GPT Agents",LightCoral,Simulates metadata attack paths.
