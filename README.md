@@ -6,3 +6,6 @@ Comparison of skills necessary to be a solution architect in 2030 vs. currently.
 
 ## [NLB_vs_ALB.xlsx](https://raw.githubusercontent.com/amramedworkin/Public_Facing_Artifacts/main/AWS_Content/NLB_vs_ALB.xlsx)
 Comparison between AWS Network Load Balancers and Application Load Balancers.  What are the differences, and when should you select one? Very comprehensive!
+
+## [HIPAA Slippage Files](https://raw.githubusercontent.com/amramedworkin/Public_Facing_Artifacts/main/Hippa_Slippage)
+Artifacts supporting the HIPPA Slippage article series
