@@ -9,7 +9,7 @@ Comparison between AWS Network Load Balancers and Application Load Balancers.  W
 
 ## [HIPAA Slippage Files](https://raw.githubusercontent.com/amramedworkin/Public_Facing_Artifacts/main/Hippa_Slippage)
 Artifacts supporting the HIPPA Slippage article series
-(https://raw.githubusercontent.com/amramedworkin/Public_Facing_Artifacts/main/HIPAA_Slippage/Public_Facing/Benefits of AI over Standard.xlsx)
+"https://raw.githubusercontent.com/amramedworkin/Public_Facing_Artifacts/main/HIPAA_Slippage/Public_Facing/Benefits of AI over Standard.xlsx"
 Sync: Updated files from source repository
 yesterday
 Benefits_of_AI_over_Standard.xlsx
