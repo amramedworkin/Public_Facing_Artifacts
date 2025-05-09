@@ -9,3 +9,31 @@ Comparison between AWS Network Load Balancers and Application Load Balancers.  W
 
 ## [HIPAA Slippage Files](https://raw.githubusercontent.com/amramedworkin/Public_Facing_Artifacts/main/Hippa_Slippage)
 Artifacts supporting the HIPPA Slippage article series
+(https://raw.githubusercontent.com/amramedworkin/Public_Facing_Artifacts/main/Hippa_Slippage/Public_Facing/Benefits of AI over Standard.xlsx)
+Sync: Updated files from source repository
+yesterday
+Benefits_of_AI_over_Standard.xlsx
+Sync: Updated files from source repository
+yesterday
+Matadata_Leakage_thriough_Cloud_Control_Planes_-_Data.xlsx
+Sync: Updated files from source repository
+yesterday
+Metadata Leakage through Cloud Control Planes.pptx
+Sync: Updated files from source repository
+yesterday
+Metadata_Leakage_through_Cloud_Control_Planes.pdf
+Sync: Updated files from source repository
+yesterday
+Metadata_Leakage_through_Cloud_Control_Planes.pptx
+Sync: Updated files from source repository
+yesterday
+Metadata_Leakage_through_Cloud_Control_Planes_-_Article_Cover.png
+Sync: Updated files from source repository
+yesterday
+Metadata_Leakage_through_Cloud_Control_Planes_-_Article_Cover.svg
+Sync: Updated files from source repository
+yesterday
+Strict_Metadata_Governance.xlsx
+Sync: Updated files from source repository
+yesterday
+Threat_Modelng_Metadata_Leakage.xlsx
