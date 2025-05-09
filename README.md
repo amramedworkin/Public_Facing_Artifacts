@@ -16,5 +16,4 @@ Comparison between AWS Network Load Balancers and Application Load Balancers.  W
 - [Cover Art (PowerPoint)](https://raw.githubusercontent.com/amramedworkin/Public_Facing_Artifacts/main/HIPAA_Slippage/Public_Facing/Metadata_Leakage_through_Cloud_Control_Planes.pptx)
 - [Cover Art (image-PNG)](https://raw.githubusercontent.com/amramedworkin/Public_Facing_Artifacts/main/HIPAA_Slippage/Public_Facing/Metadata_Leakage_through_Cloud_Control_Planes_-_Article_Cover.png)
 - [Cover Art (image-SVG)](https://raw.githubusercontent.com/amramedworkin/Public_Facing_Artifacts/main/HIPAA_Slippage/Public_Facing/Metadata_Leakage_through_Cloud_Control_Planes_-_Article_Cover.svg)
-- [Threat Modeling for Metadata Leakage (Excel)]
-(https://raw.githubusercontent.com/amramedworkin/Public_Facing_Artifacts/main/HIPAA_Slippage/Public_Facing/Threat_Modelng_Metadata_Leakage.xlsx)
+- [Threat Modeling for Metadata Leakage (Excel)](https://raw.githubusercontent.com/amramedworkin/Public_Facing_Artifacts/main/HIPAA_Slippage/Public_Facing/Threat_Modelng_Metadata_Leakage.xlsx)
